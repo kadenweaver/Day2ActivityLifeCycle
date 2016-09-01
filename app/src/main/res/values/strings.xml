@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Day2ActivityLifeCycle</string>
     <string name="hello_text">Hello World!</string>
+    <string name="activity_b_text">Yay! I\'m in Activity B</string>
 </resources>
